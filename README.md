@@ -1,0 +1,4 @@
+# SpringSecurityAndApacheShiroDemo
+自己针对SpringSecurity和ApacheShiro这两种权限框架通过学习总结的两个DEMO，DEMO包含一些基本的CASE使用和代码学习注释。  
+
+# 仅供学习和参考
